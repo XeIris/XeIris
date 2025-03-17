@@ -34,6 +34,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://static.cdnlogo.com/logos/d/9/deepseek.svg" height="30" alt="deepseek logo"  />
+  <img width="12" />
+  <img src="https://static.cdnlogo.com/logos/g/69/google-gemini.svg" height="30" alt="Google Gemini logo"  />
+
+
 </div>
 
 ###
