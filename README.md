@@ -3,7 +3,7 @@
 <!-- ═══════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:080818,40:2d1060,100:0a1530&height=220&section=header&text=Xeiris&fontSize=42&fontColor=f1f5f9&animation=fadeIn&fontAlignY=38&desc=CEO%20of%20shitposting%20%C2%B7%20compute%20wasting%20projects%20%C2%B7%20ships%20anyway&descAlignY=58&descSize=16&descColor=94a3b8" width="100%" />
+  <img src="./assets/banner2.png" width="100%" />
 </div>
 
 <!-- ═══════════════════════════════════════════════════════ -->
