@@ -6,25 +6,13 @@
   <img src="./assets/banner2.png" width="100%" />
 </div>
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                   GITHUB STATS                        -->
-<!-- ═══════════════════════════════════════════════════════ -->
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=XeIris&theme=dracula&locale=en&hide_border=false&show_icons=true&count_private=true" height="150" alt="stats" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XeIris&theme=dracula&hide_border=false&layout=compact&langs_count=6" height="150" alt="languages" />
-  <img align="right" height="150" src="https://media1.tenor.com/m/NEIq0D_HEgUAAAAC/hsr-honkai.gif"  />
-</div>
-
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════ -->
 <!--                  STATUS + VIBE                        -->
 <!-- ═══════════════════════════════════════════════════════ -->
 
-> 🟢 &nbsp;**actively breaking things** &nbsp;·&nbsp; ⚔️ Wuthering Waves &nbsp;·&nbsp; 🌙 3am is fine &nbsp;·&nbsp; HSR: semi-maintained
-
+> 🟢 &nbsp;**actively breaking things** &nbsp;·&nbsp;😭🙏claudee please i needd this..my code is kinda brokenn...&nbsp;·&nbsp; 🏎️MV1
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════ -->
@@ -74,8 +62,8 @@
       <img src="https://img.shields.io/badge/status-WIP-fbbf24?style=flat-square" />
     </td>
     <td width="50%" valign="top">
-      <h3>🐺 Silverwolf Bot</h3>
-      <p>Multipurpose shitpost Discord bot. Not safe for work. Not safe for sanity. Dockerized though.</p>
+      <h3>Silverwolf Bot</h3>
+      <p>Multipurpose shitpost Discord bot. Not safe for work & has gambling. Dockerized though.</p>
       <p>
         <img src="https://img.shields.io/badge/Bun-FBF0DF?style=flat-square&logo=bun&logoColor=black" />
         <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
@@ -142,6 +130,18 @@
 </div>
 
 <br/>
+
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--                   GITHUB STATS                        -->
+<!-- ═══════════════════════════════════════════════════════ -->
+<h2 align="left">Stats for nerds</h2>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=XeIris&theme=dracula&hide_border=false" height="150" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=XeIris&theme=tokyo-night" width="100%" />
+</div>
+
 
 <!-- footer wave -->
 <div align="center">
