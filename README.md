@@ -145,5 +145,5 @@
 
 <!-- footer wave -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1530,40:2d1060,100:080818&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1423,50:162840,100:4a7a9b&height=100&section=footer" width="100%" />
 </div>
