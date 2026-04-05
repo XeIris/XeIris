@@ -52,7 +52,7 @@
   <tr>
     <td width="50%" valign="top">
       <h3>🤖 ai-something</h3>
-      <p>Multi-model playground — no idea where it's going but it's going <em>somewhere</em>.</p>
+      <p>Multi-model playground — no idea where it's going but it's going <em>somewhere</em>. Update: it went as a feature in Silverwolf bot.</p>
       <p>
         <img src="https://img.shields.io/badge/DeepSeek-4f8ff7?style=flat-square&logoColor=white" />
         <img src="https://img.shields.io/badge/Gemini-8ab4f8?style=flat-square&logo=googlegemini&logoColor=white" />
