@@ -122,7 +122,7 @@
 <!--              QUOTE + SNAKE + SOCIALS                  -->
 <!-- ═══════════════════════════════════════════════════════ -->
 
-> *"it compiles. ship it."*
+> *"Does commits to my README.md count in stats?"*
 
 <br/>
 
