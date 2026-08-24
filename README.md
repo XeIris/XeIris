@@ -3,7 +3,7 @@
 <!-- ═══════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="./assets/banner2.png" width="100%" />
+  <img src="./assets/banner-wd-3.png" width="100%" />
 </div>
 
 <br/>
