@@ -12,8 +12,7 @@
 <!--                  STATUS + VIBE                        -->
 <!-- ═══════════════════════════════════════════════════════ -->
 
-> 🟢 &nbsp;**actively breaking things** &nbsp;·&nbsp;😭🙏claudee please i needd this..my code is kinda brokenn...&nbsp;·&nbsp; 🏎️MV1
-<br/>
+
 
 <!-- ═══════════════════════════════════════════════════════ -->
 <!--                     STACK                             -->
